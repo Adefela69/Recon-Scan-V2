@@ -53,9 +53,7 @@ Start the program and select an option from the menu:
 Recon Scan v2.0
 
 1. Start Scan
-2. Common Ports
-3. About
-4. Exit
+2. Exit
 
 Select option:
 ```
@@ -83,26 +81,6 @@ Allows you to specify a custom range of ports, such as `1` to `100`.
 ### Single Port
 
 Checks one specific TCP port.
-
-## Project Structure
-
-```text
-Recon-Scan/
-├── screenshots/
-│   └── recon-scan.png
-├── .gitignore
-├── LICENSE
-├── README.md
-└── main.py
-```
-
-## Technologies
-
-- Python
-- Socket programming
-- TCP
-- DNS resolution
-- Command-line interface
 
 ## Learning Objectives
 
